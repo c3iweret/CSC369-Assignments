@@ -4,5 +4,5 @@
 
 #### Assignment 2: Synchronization: Implementing a traffic monitor
 
-#### Assignment 3: Memory Management: Implementing and designing page table replacement algorithms
+#### Assignment 3: Memory Management: Implementing and designing page replacement algorithms
 
