@@ -1,4 +1,4 @@
-### My assignments for CSC369 (Operating Systems) at University of Toronto
+### My assignments for Operating Systems at University of Toronto
 
 #### Assignment 1: Hijacking Linux System Calls
 
